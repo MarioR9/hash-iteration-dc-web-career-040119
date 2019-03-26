@@ -8,4 +8,6 @@
 
 def select_winner(passengers)
   # add the code snippet here!
+  passengers = {:suite_a => "Amanda Pressley", :suite_b => "Seymour Hoffman", :suite_c => "alfred Tennyson", :suite_d => "Charlie Chaplin", :suite_e => "Crumpet the Elf"}
+  }
 end
